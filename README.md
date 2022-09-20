@@ -31,6 +31,7 @@ can be used for encrypting and decrypting data</br>
 
 #𝐇𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐬𝐭𝐚𝐫𝐭𝐞𝐝?</br>
 𝗦𝗘𝗧𝗨𝗣 𝗡𝗢𝗗𝗘𝗦</br>
+<a href="https://github.com/0xPranjl/dnodes">nodes setup for ucpidkms</a>
 
 
 𝐒𝐄𝐓𝐔𝐏 𝐑𝐄𝐀𝐂𝐓 𝐀𝐏𝐏</br>
